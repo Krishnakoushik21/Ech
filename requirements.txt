@@ -1,4 +1,4 @@
-# Core
+# Core UI
 streamlit>=1.35.0
 openai>=1.30.0
 
@@ -11,11 +11,6 @@ chromadb>=0.5.0
 numpy>=1.24.0
 pandas>=2.0.0
 
-# Visualization & Analysis
+# Visualization
 matplotlib>=3.8.0
 networkx>=3.2.0
-
-# Optional Deployment (REST API version of EchoMind)
-fastapi>=0.110.0
-uvicorn>=0.29.0
-flask>=3.0.0

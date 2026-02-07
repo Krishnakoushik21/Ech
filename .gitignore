@@ -20,7 +20,7 @@ Thumbs.db
 # ---- Build / Cache ----
 *.log
 *.sqlite3
-*.db
+*.db     
 .cache/
 *.egg-info/
 dist/
